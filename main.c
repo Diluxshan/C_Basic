@@ -8,6 +8,6 @@ int add(int a, int b){
 int main() {
     printf("Hello, World!\n");
     printf("C basics and final one\n");
-    printf("%d",add(5,4));
+    printf("%d",add(5,3));
 }
 
