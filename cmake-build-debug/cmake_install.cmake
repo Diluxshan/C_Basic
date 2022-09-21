@@ -1,4 +1,4 @@
-# Install script for directory: /home/senzmatepc8/CLionProjects/C_Basic
+# Install script for directory: /home/senzmatepc8/C Projects/C_Basic
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/senzmatepc8/CLionProjects/C_Basic/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/senzmatepc8/C Projects/C_Basic/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

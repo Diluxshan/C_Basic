@@ -7,7 +7,7 @@ int add(int a, int b){
 
 int main() {
     printf("Hello, World!\n");
-    printf("hello\n");
+    printf("C basics\n");
     printf("%d",add(3,4));
 }
 
