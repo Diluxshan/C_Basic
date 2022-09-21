@@ -1,0 +1,3 @@
+/home/senzmatepc8/CLionProjects/C_Basic/cmake-build-debug/CMakeFiles/C_Basic.dir
+/home/senzmatepc8/CLionProjects/C_Basic/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/senzmatepc8/CLionProjects/C_Basic/cmake-build-debug/CMakeFiles/rebuild_cache.dir
