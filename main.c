@@ -5,9 +5,14 @@ int add(int a, int b){
     return a+b;
 }
 
+int sub(int a, int b){
+    return a-b;
+}
+
 int main() {
     printf("Hello, World!\n");
     printf("C basics and final one\n");
-    printf("%d",add(5,3));
+    printf("Addition is     : %d\n",add(5,8));
+    printf("Subtraction is    : %d", sub(6.5, 0.5));
 }
 
