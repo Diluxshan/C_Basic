@@ -10,7 +10,6 @@ int sub(int a, int b){
 }
 
 int main() {
-    printf("Hello, World!\n");
     printf("C basics and final one\n");
     printf("Addition is     : %d\n",add(5,8));
     printf("Subtraction is    : %d", sub(6.5, 0.5));
