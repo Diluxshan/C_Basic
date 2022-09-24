@@ -1,17 +1,24 @@
 #include <stdio.h>
 
 
-int add(int a, int b){
+int Add(int a, int b){
     return a+b;
 }
 
-int sub(int a, int b){
+int Subb(int a, int b){
     return a-b;
+}
+
+int Multiple(int a, int b){
+    return a * b;
 }
 
 int main() {
     printf("C basics and final one\n");
-    printf("Addition is     : %d\n",add(5,8));
-    printf("Subtraction is    : %d", sub(6.5, 0.5));
+    printf("Addition is         : %d\n", Add(5, 8));
+    printf("Subtraction is      : %d\n", Subb(6.5, 0.5));
+    printf("Myltiplation is     : %d\n", Multiple(2, 4));
+
+
 }
 
